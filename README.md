@@ -3,8 +3,9 @@
 Clon dinámico de una vista de la web Medium utilizando el framework
 avanzado Vue de JS
 
-## Versión
+[link](https://medium-clone-23.netlify.app/)
 
+## Versión
 Renderizado dinámico del contenido y utilización de SFCs, así como estilos dinámicos y animaciones sencillas en el encabezado.
 
 
